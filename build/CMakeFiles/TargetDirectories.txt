@@ -1,9 +1,0 @@
-C:/Users/syf/Projects/rtxInOneWeekend/build/CMakeFiles/NightlyMemoryCheck.dir
-C:/Users/syf/Projects/rtxInOneWeekend/build/CMakeFiles/Experimental.dir
-C:/Users/syf/Projects/rtxInOneWeekend/build/CMakeFiles/Continuous.dir
-C:/Users/syf/Projects/rtxInOneWeekend/build/CMakeFiles/Nightly.dir
-C:/Users/syf/Projects/rtxInOneWeekend/build/CMakeFiles/PACKAGE.dir
-C:/Users/syf/Projects/rtxInOneWeekend/build/CMakeFiles/rtxInOneWeekend.dir
-C:/Users/syf/Projects/rtxInOneWeekend/build/CMakeFiles/RUN_TESTS.dir
-C:/Users/syf/Projects/rtxInOneWeekend/build/CMakeFiles/ALL_BUILD.dir
-C:/Users/syf/Projects/rtxInOneWeekend/build/CMakeFiles/ZERO_CHECK.dir
