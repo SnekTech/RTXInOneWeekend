@@ -4,7 +4,11 @@ project(RTXInOneWeekend VERSION 0.1.0)
 include(CTest)
 enable_testing()
 
-add_executable(RTXInOneWeekend main.cpp vec3.h)
+add_executable(RTXInOneWeekend 
+    main.cpp
+    vec3.h
+    color.h
+)
 
 set(CPACK_PROJECT_NAME ${PROJECT_NAME})
 set(CPACK_PROJECT_VERSION ${PROJECT_VERSION})
