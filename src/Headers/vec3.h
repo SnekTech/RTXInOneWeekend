@@ -64,7 +64,7 @@ public:
     }
 
 public:
-    double e[];
+    double e[3];
 };
 
 // Type aliases for vec3
