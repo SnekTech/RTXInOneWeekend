@@ -45,7 +45,7 @@ bool hittable_list::hit(const ray &r, double t_min, double t_max, hit_record &re
         if (object->hit(r, t_min, closest_so_far, temp_record))
         {
             hit_anything = true;
-            closest_so_far = temp_record.t; // TODO: may be it is temp_record.t = closest_so_far?
+            closest_so_far = temp_record.t;
             record = temp_record;
         }
     }
